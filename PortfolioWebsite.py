@@ -19,3 +19,16 @@
 #Check out the designs from 
 # https://www.hostinger.com/tutorials/web-developer-portfolio
 #and copy what looks cool
+
+
+#NEXT STEPS
+
+#Change the fonts to get a more robotic/tech look
+
+#Maybe remove the facts section
+
+#Change the entries in the skills section
+
+#Update resume with my real info
+
+#Update services with Guitar,video editing,data science,python web apps,workout routines
